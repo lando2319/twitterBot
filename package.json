@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lando2319/twitterBot/issues"
   },
-  "homepage": "https://github.com/lando2319/twitterBot"
+  "homepage": "https://github.com/lando2319/twitterBot",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
 }
